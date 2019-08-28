@@ -1,1 +1,0 @@
-helloworld.o: ../helloworld.c
